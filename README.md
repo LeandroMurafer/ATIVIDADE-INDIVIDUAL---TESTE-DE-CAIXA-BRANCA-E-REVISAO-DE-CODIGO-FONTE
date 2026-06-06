@@ -79,9 +79,9 @@ O método `conectarBD()` está acoplado diretamente à implementação (MySQL, e
 ## 3. Grafo de Fluxo
 
 O grafo foi construído para o método `verificarUsuario`, que concentra a lógica principal e as estruturas de decisão.
-
+<div align="center">
 <img> src="https://github.com/LeandroMurafer/ATIVIDADE-INDIVIDUAL---TESTE-DE-CAIXA-BRANCA-E-REVISAO-DE-CODIGO-FONTE/blob/cdee85af350826db33b5cfc8a253aa67adfdbe19/Grafo_de_Fluxo_RA248670.png" width="400">
-
+</div>
 ### Identificação dos Nós
 
 | Nó  | Descrição |
